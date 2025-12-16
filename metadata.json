@@ -1,0 +1,7 @@
+{
+  "name": "ZS510 - The Golden Spruce",
+  "description": "A high-fidelity 3D experience featuring a luxurious, shape-shifting Christmas tree controlled by AI hand gestures.",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}
